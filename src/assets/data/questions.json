@@ -1,0 +1,29 @@
+{
+	"questions": [
+
+		{
+			"flashCardFront":"<img src='assets/imgs/quiz.png' />",
+			"flashCardBack": "Hyper Text Markup Language",
+			"flashCardFlipped": false,
+			"questionText": "What HTML Stands For",
+			"answers": [
+				{"answer": "Hyper Text Making Language", "correct": false, "selected": false},
+				{"answer": "Hyper Text Markup Language", "correct": true, "selected": false},
+				{"answer": "Hyper Text Marking Language", "correct": false, "selected": false}
+			]
+		},
+		{
+			"flashCardFront": "<img src='assets/imgs/quiz.png' />",
+			"flashCardBack": "Cascading Style Sheet",
+			"flashCardFlipped": false,
+			"questionText": "What is this?",
+			"answers": [
+				{"answer": "Cascading Style Sheet", "correct": true, "selected": false},
+				{"answer": "Cross", "correct": false, "selected": false},
+				{"answer": "Cross Style Sheet", "correct": false, "selected": false}
+			]
+		}
+		
+
+	]
+}
